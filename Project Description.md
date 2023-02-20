@@ -1,0 +1,1 @@
+In order to determine the optimal retail price of Tropicana 64 oz., and maximize the gross profit for Nick’s, a regional grocery retailer, we use a two-year dataset to run three models. There are 11 main variables that exist or are created: Price, Quant, Store, Week, Quarter1, Quarter2, Quarter3, Pricing Ending in 9, Holiday, BeforeHoliday, and Deal(Table 1).
